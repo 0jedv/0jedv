@@ -25,7 +25,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la **informática** y me 
 
 ## 🚀 Proyectos destacados
 
-- **Kemekeosinweb** : Es una página web en la cual junto a un compañero de clase me dedico a asesorar a pequeñas empresas sobre su página web, creamos páginas nuevas desde 0 o perfeccionamos la propia usando wordpress.
+- **Kemekeosinweb** : Es un pequeño negocio en el cual junto a un compañero de clase me dedico a asesorar a pequeñas empresas sobre su página web, creamos páginas nuevas desde 0 o perfeccionamos la propia usando wordpress.
   
 ## 📫 ¿Cómo contactarme?
 
