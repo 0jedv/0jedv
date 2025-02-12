@@ -17,6 +17,8 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la **informática** y me 
   
 - Herramientas:
   - Git & GitHub
+  - HTML
+  - JavaScript
   - MySqL
   - Eclipse
   - InteliJ idea
